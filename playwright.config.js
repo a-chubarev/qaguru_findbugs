@@ -40,7 +40,7 @@ export default defineConfig({
 
 
     /* Включение режима с графическим интерфейсом */
-    headless: false,
+    headless: true,
   },
 
   /* Configure projects for major browsers */
